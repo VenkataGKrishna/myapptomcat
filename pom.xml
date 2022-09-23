@@ -33,9 +33,6 @@
 	
 </project>
 
-		</repository>
-  	</distributionManagement>
-	
 	<pluginRepositories>
 	    <pluginRepository>    
 		<id>maven1</id>
